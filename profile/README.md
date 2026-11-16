@@ -71,10 +71,6 @@ Source for the SDKs lives in [oneschema/sdk](https://github.com/oneschema/sdk). 
 - **Multi FileFeeds:** connect S3, SFTP, Azure, Google Cloud Storage, SharePoint, or Workday and run validated file pipelines. [Build your first Multi FileFeed](https://docs.oneschema.co/docs/build-your-first-multi-filefeed)
 - **MCP server:** give Claude, Cursor, Codex, Windsurf, or Devin direct access to the API specs at `https://api.oneschema.co/mcp`. [Set it up](https://docs.oneschema.co/docs/mcp-server)
 
-## `$ git remote -v`
-
-We also maintain forks of open-source projects we depend on, such as [lance](https://github.com/oneschema/lance), [calamine](https://github.com/oneschema/calamine), [hyper](https://github.com/oneschema/hyper), [rocket](https://github.com/oneschema/rocket), and [deno](https://github.com/oneschema/deno).
-
 ## `$ man oneschema`
 
 - Questions or bugs in an SDK: [open an issue](https://github.com/oneschema/sdk/issues)
